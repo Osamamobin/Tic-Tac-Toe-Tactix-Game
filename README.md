@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe Game
+# 🎮 Tic-Tac-Toe-Tactix-Game
 
 A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScript**.
 Play against another player in a clean and responsive UI.
@@ -64,4 +64,4 @@ This project is open-source and available under the MIT License.
 
 ## 🙌 Author
 
-Created by *Abtahi Islam*
+Created by *Osama Mobin Zuhar*
